@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import GoogleLogin from 'react-google-login';
 import { PostData } from '../../services/PostData';
 import { Redirect } from 'react-router-dom';
-import './Welcome.css';
+// import './Welcome.css';
 
 class Welcome extends Component {
   constructor(props) {

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Home.css';
+// import './Home.css';
 import { Redirect } from 'react-router-dom';
 class Home extends Component {
 
