@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@appbaseio/reactivesearch": "^2.13.0",
+    "auth0-js": "^9.8.1",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
     "react-facebook-login": "^4.1.1",
